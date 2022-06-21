@@ -1,11 +1,9 @@
 <!--
  * @Author: error: git config user.name && git config user.email & please set dead value or install git
- * @Date: 2022-06-20 10:49:19
+ * @Date: 2022-06-20 11:22:19
  * @LastEditors: error: git config user.name && git config user.email & please set dead value or install git
- * @LastEditTime: 2022-06-21 10:16:02
- * @FilePath: \demo\docs\.vuepress\components\demo_1.vue
+ * @LastEditTime: 2022-06-20 18:52:17
+ * @FilePath: \demo\docs\tech\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-<template>
-    <div>Hello  demo_1 component</div>
-</template>
+# Docker
